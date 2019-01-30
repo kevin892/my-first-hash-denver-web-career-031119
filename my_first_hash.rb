@@ -25,7 +25,6 @@ def retrieval
 
                  hipping_manifest["oil paintings"]
 
-  Look up the value of the "oil paintings" key in the shipping_manifest hash below
 
 end
 
